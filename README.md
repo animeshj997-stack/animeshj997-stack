@@ -24,7 +24,7 @@
 
 ## 🏆 Competitive Programming:
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert%201700+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/fastfast)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/animesh_j/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-animesh__j-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/animesh_j/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
