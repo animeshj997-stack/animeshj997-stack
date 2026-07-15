@@ -33,10 +33,6 @@ IIT BHU grad turned Full Stack Developer. 2 years building and shipping producti
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert%201700+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/fastfast)
 [![LeetCode](https://img.shields.io/badge/LeetCode-animesh__j-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/animesh_j/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=animeshj997-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=animeshj997-stack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=animeshj997-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
