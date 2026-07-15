@@ -1,4 +1,4 @@
-> IIT BHU grad turned Backend Developer. 1.5+ years shipping scalable systems for 50K+ users. Codeforces Expert. Currently exploring AI agents, System Design & Kafka.
+> IIT BHU grad turned Full Stack Developer. 2 years building and shipping production-grade systems. Codeforces Expert. Currently working with AI agents, System Design & Kafka.
 
 # 💫 About Me:
 🔭 I'm currently working on — AI agent workflows and building AI-powered models using Claude<br>
