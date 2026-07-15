@@ -12,6 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=animeshj997-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=animeshj997-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
